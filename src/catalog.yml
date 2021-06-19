@@ -6,8 +6,6 @@ CHAPS:
     - chap-info-about.re
     - chap-info-coc.re
 
-  - chap-title-sponsor.re:
-
   - chap-title-staff.re:
     - chap-staff-event.re
     - chap-staff-printflyer.re
