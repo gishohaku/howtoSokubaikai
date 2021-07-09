@@ -2,13 +2,15 @@ PREDEF:
   - chap-preface.re
 
 CHAPS:
-  - chap-title-info.re:
-    - chap-info-about.re
+  - chap-title-concept.re:
+    - chap-eventconcept.re
+    - chap-corestaff.re
     - chap-info-coc.re
 
   - chap-title-staff.re:
     - chap-staff-event.re
     - chap-staff-printflyer.re
+    - chap-info-about.re
 
 POSTDEF:
   - chap-contributors.re
