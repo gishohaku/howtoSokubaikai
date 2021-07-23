@@ -5,6 +5,7 @@ CHAPS:
   - chap-title-concept.re:
     - chap-eventconcept.re
     - chap-corestaff.re
+    - chap-make-coc.re
     - chap-info-coc.re
 
   - chap-title-staff.re:
