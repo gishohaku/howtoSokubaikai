@@ -58,7 +58,7 @@ https://qiita.com/implicit_none/items/398c6e0bbedc8b160621
 Dockerを使うのが一番手軽です。
 
 ```sh
-$ docker run --rm -v `pwd`:/work vvakame/review /bin/sh -c "cd /work/articles ; review-pdfmaker config.yml"
+docker run --rm -v $PWD/src:/work vvakame/review:3.2 /bin/sh -c "cd /work && review-pdfmaker config-ebook.yml"
 ```
 
 ### Docker使わずビルド
