@@ -8,6 +8,8 @@ CHAPS:
     - chap-make-coc.re
     - chap-info-coc.re
 
+  - chap-title-booking.re
+
   - chap-title-staff.re:
     - chap-staff-event.re
     - chap-staff-printflyer.re
